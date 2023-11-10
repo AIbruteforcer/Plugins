@@ -6,8 +6,6 @@ Welcome to the Minecraft Server Plugins Repository! This repository is designed 
 
 - [Plugins](#plugins)
 - [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Plugins
 
@@ -46,11 +44,3 @@ To get started with these plugins, follow these general steps:
 5. **Restart the Server:** After installation and configuration, restart your Minecraft server to apply the changes.
 
 For specific installation and configuration details, please refer to each plugin's README file linked above.
-
-## Contributing
-
-We welcome contributions to this repository! If you have improvements, bug fixes, or new plugins to add, please follow these steps:
-
-1. Fork this repository.
-
-2. Create a new branch for your changes:
