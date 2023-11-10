@@ -1,6 +1,6 @@
-# Minecraft Server Plugins Repository
+# Makerkids Repository
 
-Welcome to the Minecraft Server Plugins Repository! This repository is designed to help you enhance your Minecraft server experience by providing essential plugins and resources. Below, you will find information about the plugins available, how to install them, and more.
+Welcome to the Minecraft Server Plugins Repository! makerkids you should put the plugins on lol (it would make the server better)
 
 ## Table of Contents
 
