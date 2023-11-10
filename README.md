@@ -11,7 +11,7 @@ Welcome to the Minecraft Server Plugins Repository! makerkids you should put the
 
 ### 1. CoreProtect
 
-- **Description:** CoreProtect is a powerful anti-griefing and block-tracking plugin for your server. It helps you track changes to your world and roll them back if necessary.
+- **Description:** CoreProtect is a powerful anti-griefing and block-tracking plugin for your server. It helps you track changes to your world and roll them back if necessary. Since there are so many glitches to place in spawn or other plots yous should get this one
 - **Releases:** [CoreProtect Releases](https://github.com/AIbruteforcer/Plugins/releases)
 
 ### 2. ViaVersion
